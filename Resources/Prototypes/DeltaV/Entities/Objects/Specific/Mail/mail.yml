@@ -802,7 +802,7 @@
       orGroup: Snack1
     - id: FoodSnackBoritos
       orGroup: Snack1
-    - id: FoodSnackSus
+    - id: FoodSnackSosJerky
       orGroup: Snack1
     - id: FoodSnackPistachios
       orGroup: Snack1
@@ -828,7 +828,7 @@
       orGroup: Snack2
     - id: FoodSnackBoritos
       orGroup: Snack2
-    - id: FoodSnackSus
+    - id: FoodSnackSosJerky
       orGroup: Snack2
     - id: FoodSnackPistachios
       orGroup: Snack2
@@ -854,7 +854,7 @@
       orGroup: Snack3
     - id: FoodSnackBoritos
       orGroup: Snack3
-    - id: FoodSnackSus
+    - id: FoodSnackSosJerky
       orGroup: Snack3
     - id: FoodSnackPistachios
       orGroup: Snack3
@@ -880,7 +880,7 @@
       orGroup: Snack4
     - id: FoodSnackBoritos
       orGroup: Snack4
-    - id: FoodSnackSus
+    - id: FoodSnackSosJerky
       orGroup: Snack4
     - id: FoodSnackPistachios
       orGroup: Snack4

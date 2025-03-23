@@ -465,9 +465,9 @@
   description: flavor-complex-syndi-cakes
 
 - type: flavor
-  id: susjerky
+  id: sosjerky
   flavorType: Complex
-  description: flavor-complex-sus-jerky
+  description: flavor-complex-sos-jerky
 
 - type: flavor
   id: boritos
