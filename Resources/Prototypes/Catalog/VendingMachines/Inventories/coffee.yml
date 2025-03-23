@@ -1,10 +1,19 @@
 ﻿- type: vendingMachineInventory
   id: HotDrinksMachineInventory
   startingInventory:
-    DrinkHotCoffee: 5
-    DrinkCafeLatte: 5
-    DrinkTeacup: 5
-    DrinkGreenTea: 5
-    DrinkHotCoco: 5
+    DrinkHotCoffee: 25
+    #DrinkEspresso: 30
+    #DrinkDoppio: 25
+    DrinkCafeLatte: 15
+    #DrinkSoyLatte: 15
+    #DrinkCappuccino: 15
+    DrinkTeacup: 25
+    DrinkGreenTea: 15
+    DrinkHotCoco: 25
+    #DrinkIrishCoffeeGlass: 25 #seems no way to gate this behind St Patrick's Day?
   emaggedInventory:
     DrinkNothing: 2
+    DrinkIceGlass: 10
+    #DrinkChifir: 10
+    FoodSoupTomato: 3
+    DrinkVacuumFlask: 3
