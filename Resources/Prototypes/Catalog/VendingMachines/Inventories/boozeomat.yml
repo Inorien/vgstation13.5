@@ -1,50 +1,45 @@
 - type: vendingMachineInventory
   id: BoozeOMatInventory
   startingInventory:
-    DrinkGlass: 20 #Kept glasses at top for ease to differentiate from booze.
+    DrinkGlass: 30 #Kept glasses at top for ease to differentiate from booze.
+    DrinkMug: 30
     DrinkShotGlass: 10
     DrinkGlassCoupeShaped: 10
     DrinkVacuumFlask: 5
     DrinkFlaskBar: 5
     DrinkShaker: 5
     DrinkJigger: 5
-    DrinkIceBucket: 2
+    DrinkIceBucket: 9
     BarSpoon: 3
     CustomDrinkJug: 2 #to allow for custom drinks in the soda/booze dispensers
-    DrinkAbsintheBottleFull: 2
-    DrinkAleBottleFull: 5
-    DrinkBeerBottleFull: 5
-    DrinkBlueCuracaoBottleFull: 2
-    DrinkCognacBottleFull: 4
-    DrinkCoconutWaterCarton: 3
-    DrinkColaBottleFull: 4
-    DrinkEnergyDrinkCan: 8
-    DrinkMilkCarton: 2
-    DrinkCreamCarton: 5
-    DrinkGinBottleFull: 3
-    DrinkGildlagerBottleFull: 2 #if champagne gets less because its premium, then gildlager should match this and have two
-    DrinkGrenadineBottleFull: 2
-    DrinkJuiceLimeCarton: 3
-    DrinkJuiceOrangeCarton: 3
-    DrinkJuiceTomatoCarton: 3
-    DrinkCoffeeLiqueurBottleFull: 3
-    DrinkMelonLiquorBottleFull: 3
-    DrinkPatronBottleFull: 2
-    DrinkRumBottleFull: 4
-    DrinkSodaWaterCan: 8
-    DrinkSolDryCan: 8
-    DrinkSpaceMountainWindBottleFull: 3
-    DrinkSpaceUpBottleFull: 3
-    DrinkTequilaBottleFull: 3
-    DrinkTonicWaterCan: 8
-    DrinkVermouthBottleFull: 5
-    DrinkVodkaBottleFull: 5
+    DrinkGinBottleFull: 5
     DrinkWhiskeyBottleFull: 5
+    DrinkTequilaBottleFull: 5
+    DrinkRumBottleFull: 5
+    DrinkCognacBottleFull: 5
+    #DrinkTripleSec: 5
+    DrinkBlueCuracaoBottleFull: 5
+    #DrinkWizardsBitters: 5
+    #DrinkSpaceSchnapps: 5
+    #DrinkFireballWhisky: 5
+    DrinkVermouthBottleFull: 5
     DrinkWineBottleFull: 5
-    DrinkChampagneBottleFull: 2 #because the premium drink
-    DrinkSakeBottleFull: 2 # DeltaV - Sake bottle
-    DrinkSojuBottleFull: 2 # DeltaV - Soju bottle
-    DrinkBeerCan: 5
-    DrinkWineCan: 5
+    DrinkCoffeeLiqueurBottleFull: 5
+    DrinkSakeBottleFull: 5 # DeltaV - Sake bottle
+    DrinkBeerBottleFull: 6
+    DrinkAleBottleFull: 6
+    DrinkJuiceOrangeCarton: 4
+    DrinkJuiceTomatoCarton: 4
+    DrinkJuiceLimeCarton: 4
+    DrinkCreamCarton: 4
+    DrinkMilkCarton: 4
+    #DrinkSoyMilkCarton: 4
+    DrinkTonicWaterCan: 8
+    DrinkColaBottleFull: 8
+    DrinkSodaWaterCan: 15
   emaggedInventory:
-    DrinkPoisonWinebottleFull: 2
+    DrinkPoisonWinebottleFull: 1 #move to premium when supported
+    DrinkChampagneBottleFull: 1 #move to premium when supported
+    DrinkTeaClass: 10
+    DrinkCoffee: 10
+    #Breathalyzer: 1
