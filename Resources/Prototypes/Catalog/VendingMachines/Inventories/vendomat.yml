@@ -1,12 +1,23 @@
 - type: vendingMachineInventory
   id: VendomatInventory
   startingInventory:
-    RemoteSignaller: 1
-    Igniter: 2
+    ProximitySensor: 5
+    Igniter: 3
+    RemoteSignaller: 4
+    #InfraredSensor: 6
     Wirecutter: 1
+    #SignalCartridge: 4 #or some equivalent functionality depending on how PDAs work
+    Manipulator: 5
+    #Microlaser: 3
+    MatterBin: 5
+    #ScanningModule: 3
+    Capacitor: 2
+    #ConsoleScreen: 4
     CableApcStack: 2
-    FlashlightLantern: 2
     PowerCellSmallPrinted: 3
     MatterBinStockPart: 4
     CapacitorStockPart: 4
     MicroManipulatorStockPart: 4
+  emaggedInventory:
+    FlashlightLantern: 5
+    TimerTrigger: 2
