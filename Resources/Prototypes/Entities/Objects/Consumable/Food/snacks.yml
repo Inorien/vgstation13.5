@@ -251,7 +251,7 @@
   name: Scaredy's Private Reserve Beef Jerky
   parent: FoodSnackBase
   id: FoodSnackSosJerky
-  description: Something about this packet makes you feel incredibly uneasy. Jerky's good though.
+  description: Beef jerky made from the finest space cows.
   components:
   - type: FlavorProfile
     flavors:
